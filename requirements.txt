@@ -1,0 +1,10 @@
+torch>=2.2,<3
+gymnasium[atari]>=1.0,<2
+ale-py>=0.9,<1
+numpy>=1.26,<3
+opencv-python>=4.8,<5
+matplotlib>=3.8,<4
+imageio>=2.34,<3
+imageio-ffmpeg>=0.5,<1
+moviepy>=2.1,<3
+ipykernel>=6,<8

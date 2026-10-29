@@ -1,3 +1,4 @@
+outputs/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -204,6 +205,9 @@ cython_debug/
 # .vscode/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
+
+# Local paper inspection and notebook smoke-test artifacts
+tmp/
 
 # Ruff stuff:
 .ruff_cache/
